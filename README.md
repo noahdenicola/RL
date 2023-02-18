@@ -6,12 +6,15 @@
 CartPole_DQN.py (cp_dqn), CartPole_REINFORCE.py (cp_reinforce), LunarLander_DQN.py (ll_dqn)
 
 ### To run:
-`make <code>`
+```
+$ make install
+$ make <code>
+```
 
 ### wandb:
 Upload metadata:
-`wandb online`	
+`$ wandb online`	
 
 Keep metadata local:
-`wandb offline`
+`$ wandb offline`
 
